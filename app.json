@@ -1,0 +1,7 @@
+{
+  "sitemapLocation": "sitemap14.json",
+  "pages": [
+    "pages/home/home",
+    "pages/about/about"
+  ]
+}
